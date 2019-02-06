@@ -1,0 +1,9 @@
+pixel permutation test
+
+max pooling and salt and pepper noise
+
+pooling across space
+
+pooling across channels, and lateral connections
+
+what can't they do? Learn noise categories.
